@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Antonymn0
-- I’m interested in web projects mainly in PHP and JavaScript
-- I’m looking to build, collaborate do mentainace to projects
+- I’m interested in web projects mainly in PHP and JavaScript and React native
+- I’m looking  collaborate in building secure scallable software solutions for business.
 - Reach me on mnantony0@gmail.com and let  us  get the work started.
